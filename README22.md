@@ -65,3 +65,11 @@ postgresql-logical-replication/
 - [Lessons Learned](docs/lessons-learned-and-best-practices.md)
 
 ---
+
+## Architecture Diagram
+
+See detailed architecture here:
+
+[View Architecture Diagram](./diagrams/architecture.md)
+
+
