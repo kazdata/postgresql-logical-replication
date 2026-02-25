@@ -221,5 +221,3 @@ Production logical replication is successful when monitoring, ownership,
 and recovery processes are established upfront.
 
 This go-live plan ensures a controlled rollout with minimal operational risk.
-
-```
