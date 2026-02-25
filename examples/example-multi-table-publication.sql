@@ -2,7 +2,7 @@
 -- File: example-multi-table-publication.sql
 -- Purpose: Create logical replication publication with
 --          multiple tables
--- Environment: PostgreSQL Dev
+-- Environment: PostgreSQL 10+
 -- ============================================================
 
 -- Step 1: Verify wal_level
