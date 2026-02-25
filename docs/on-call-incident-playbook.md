@@ -193,5 +193,3 @@ Dropping replication slots is NOT normal operations.
 The primary fix is restoring Informatica log consumption.
 
 NOTE: This playbook ensures safe and consistent response during production incidents.
-
-```
