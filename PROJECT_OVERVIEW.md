@@ -1,5 +1,5 @@
 # Project Overview
-PostgreSQL Logical Replication Implementation (DB Engineering)
+## PostgreSQL Logical Replication Implementation (DB Engineering)
 
 This project documents a complete logical replication setup in PostgreSQL
 using replication slots and publications, designed to support CDC tools
